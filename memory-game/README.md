@@ -21,8 +21,8 @@ In this **Inside Out-themed** memory game, you have ***50 seconds*** to find and
 
 
 ### **Project deliverables**:
-1. **GitHub repo link**:
-2. **Deployed project link**:
+1. **GitHub repo link**:[GitHub-repo](https://github.com/ashleymichelle5/memory-game)
+2. **Deployed project link**:[Memory-game](https://ashleymichelle5.github.io/memory-game/)
 
 ### **Technologies Used**:
 * Javascript 
