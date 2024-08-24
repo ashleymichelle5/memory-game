@@ -1,0 +1,62 @@
+body {
+    background-image: url(https://d23.com/app/uploads/2024/06/Inside_Out_2_Background_Compressed_00.jpg);
+    color: purple;
+
+}
+main {
+    width: 730px;
+    margin: 200px auto;
+    display: flex;
+    align-items: center;
+}
+.game-container {
+    background-color: rgba(255,255,255,0.6);
+    padding: 0 10px 10px 10px;
+    border-radius: 15px;
+}
+button {
+    height: 100px;
+    width: 100px;
+    color: black;
+    font-size: 40px;
+    padding: 0%;
+    background-image: url("../img/logo.png");
+    background-size: cover;
+}
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px purple;
+}
+.data{
+    background-color: rgba(255,255,255,0.6);
+    border-radius: 8px;
+    width: 250px;
+    height: 400px;
+    padding: 0 20px;
+}
+.stadistics {
+    border: 1px solid white;
+    height: 100px;
+    border-radius: 8px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+#restart {
+    height: 80px;
+    width: 150px;
+    color: purple;
+    background-color: rgba(255,255,255,0.6);
+    background-image: url('');
+}
+button:active {
+    background-color: initial;
+    box-shadow: none;
+}
