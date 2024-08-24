@@ -60,3 +60,57 @@ button:active {
     background-color: initial;
     box-shadow: none;
 }
+
+@media (max-width: 576px) {
+    main {
+        width: 512px;
+        height: 600px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 15%;
+    }
+    .game-container {
+        background-color: rgba(255,255,255,0.6);
+        border-radius: 15px;
+        display: flex;
+        flex-direction: column;
+        font-size: smaller;
+    }
+    button {
+        height: 50px;
+        width: 50px;
+        color: black;
+        font-size: 40px;
+        background-image: url("../img/logo.png");
+        background-size: cover;
+    }
+    button:hover{
+        cursor: pointer;
+        box-shadow: 0 0 10px purple;
+    }
+    .data{
+        background-color: rgba(255,255,255,0.6);
+        border-radius: 8px;
+        font-size: smaller;
+    }
+    .stadistics {
+        border: 1px solid white;
+        height: 50px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    
+    #restart {
+        height: 60px;
+        width: 120px;
+        font-size: 30px;
+        color: purple;
+        background-color: rgba(255,255,255,0.6);
+        background-image: url('');
+        margin-top: 0%;
+        position: fixed;
+        top: 90%;
+    }    
+}
