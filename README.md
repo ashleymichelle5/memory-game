@@ -15,7 +15,6 @@ In this **Inside Out-themed** memory game, you have ***50 seconds*** to find and
  * `let moves = 0`
  * `let matches = 0`
  * `let timer = 50`
- * `let flippedCards = 0`
  * `function shuffleNumbers()`
  * `function init()`
  * `function revealAllCards()`
