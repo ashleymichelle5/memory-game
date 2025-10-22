@@ -73,7 +73,7 @@ let timer = 50            // Countdown timer (seconds)
 **Your Name**
 
 - GitHub: [@ashleymichelle5](https://github.com/ashleymichelle5)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- LinkedIn: [Ashley Sanchez](https://linkedin.com/in/your-profile)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
