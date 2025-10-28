@@ -73,8 +73,8 @@ let timer = 50            // Countdown timer (seconds)
 **Ashley Sanchez**
 
 - GitHub: [@ashleymichelle5](https://github.com/ashleymichelle5)
-- LinkedIn: [Ashley Sanchez](https://linkedin.com/in/your-profile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [Ashley Sanchez](https://www.linkedin.com/in/ashley-sanchez-029331390/)
+- Portfolio: [ashleymsanchez.com](https://www.ashleymsanchez.com)
 
 ---
 
